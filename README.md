@@ -1,4 +1,5 @@
 # CSCI23
+![pursue](Lue Vang CSCI23 BingoSQL.png)
 Lab work for CSCI23
 
 ##APIs
