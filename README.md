@@ -2,6 +2,12 @@
 ![Pursue](Lue Vang CSCI23 BingoSQL.png)
 Lab work for CSCI23
 
+## Team
+Name | Email | Phone
+--- | --- | ---
+John | jdog@gmial.com | (916) 455-4545
+
+
 ##APIs
 
 [Join Game](README.md#join-game)
